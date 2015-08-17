@@ -1,0 +1,27 @@
+2014-09-01  Yi D  <reflectionalist@gmail.com>
+
+	20140804-1:
+	* updated to the latest snapshot
+
+2014-01-01  Yi D  <reflectionalist@gmail.com>
+
+	20131127-1:
+	* updated to the latest snapshot
+	* reverted to the original url
+	* switched from Makefile.patch to `make PREFIX=/usr`
+	* use `make install-all` to also install the S9 editor
+
+2013-05-02  Mariusz Libera  <mariusz.libera@gmail.com>
+
+	20121005-2:
+	* removed unneeded msg from PKGBUILD
+
+	20121005-1:
+	* new upstream release
+	* new maintainer
+	* added Changelog
+	* updated dependencies
+	* updated Makefile.patch
+	* updated PKGBUILD
+	* added some documentation
+
